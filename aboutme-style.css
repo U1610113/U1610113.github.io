@@ -1,0 +1,28 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+	font-family: Times New Roman;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana, Trebuchet MS, Georgia, Tahoma;
+    font-size: 20px;
+}
+
+.xex {
+    margin: 45px;
+}
+
+.ffont {
+	color: #3B3B6D;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}
+.ffont1 {
+	text-shadow: -3px -8px 9px 	#3B444B;
+	color: #3B444B;
+}
